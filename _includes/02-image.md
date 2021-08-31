@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of sunrise](https://cdn.eso.org/images/screen/sunrise-shadow-cc.jpg)
